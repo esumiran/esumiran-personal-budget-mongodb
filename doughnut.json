@@ -1,0 +1,40 @@
+{"myBudget":
+	 [
+	{
+		"title":"Eat out",
+		"value":40,
+		"color": "#98abc5"
+	},
+	{
+		"title":"Rent",
+		"value":400,
+		"color": "#8a89a6"
+	},
+	{
+		"title":"Groceries",
+		"value":100,
+		"color": "#7b6888"
+	},
+	{
+		"title":"Gas",
+		"value":50,
+		"color": "#6b486b"
+	},
+	{
+		"title":"electricity",
+		"value":100,
+		"color": "#a05d56"
+	},
+	{
+		"title":"repairs",
+		"value":150,
+		"color": "#d0743c"
+	},
+	{
+		"title":"education",
+		"value":800,
+		"color": "#ff8c00"
+	}
+
+	]
+}
